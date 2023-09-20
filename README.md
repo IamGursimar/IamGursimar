@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [gursimarsingh.com.au](gursimarsingh.com.au)
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
-
 - 💬 Ask me about **Django, Python, Dart, Flutter**
 
 - 📫 How to reach me **gursimarsingh1995@gmail.com**
