@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Django, Python, Dart, Flutter**
 
-- 📫 How to reach me **gursimarsingh1995@gmail.com**
+- 📫 How to reach me at **gursimarsingh1995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
