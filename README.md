@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **Amazon Web Services (Preparing for AWS developer Certification)**
 
-- 🤝 I’m looking to collaborate on **Any purpose driven advanced project**
+- 👨‍💻 All of my projects will be available at [gursimarsingh.com.au](gursimarsingh.com.au)
 
-- 👨‍💻 All of my projects are available at [gursimarsingh.com.au](gursimarsingh.com.au)
-
-- 💬 Ask me about **Django, Python, Dart, Flutter**
+- 💬 Ask me about **Django, Python, Dart, Flutter, AWS**
 
 - 📫 How to reach me at **gursimarsingh1995@gmail.com**
 
