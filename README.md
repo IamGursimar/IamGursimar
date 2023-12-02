@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gursimar&label=Profile%20views&color=0e75b6&style=flat" alt="gursimar" /> </p>
 
-- 🔭 I’m currently working on [Cloud Resume Challenge](https://github.com/users/IamGursimar/projects/1)
+- 🔭 I’m currently working on [Personal portfolio website](https://github.com/users/IamGursimar/projects/1)
 
 - 🌱 I’m currently learning **Amazon Web Services (Preparing for AWS developer Certification)**
 
