@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Personal portfolio website](https://github.com/users/IamGursimar/projects/1)
 
-- 🌱 I’m currently learning **Amazon Web Services (Preparing for AWS developer Certification)**
+- 🌱 I’m currently learning **Django Channels**
 
 - 👨‍💻 All of my projects will be available at [gursimarsingh.com.au](gursimarsingh.com.au)
 
