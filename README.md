@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Personal portfolio website](https://github.com/users/IamGursimar/projects/1)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects will be available at [gursimarsingh.com.au](gursimarsingh.com.au)
 
