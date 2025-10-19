@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Personal portfolio website](https://github.com/users/IamGursimar/projects/1)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently going through the **[Joy of React](https://www.joyofreact.com/)** course
 
 - 👨‍💻 All of my projects will be available at [gursimarsingh.com.au](gursimarsingh.com.au)
 
